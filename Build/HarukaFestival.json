@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
+"companyName": "稻草人工坊",
 "productName": "Hoshimi_Haruka",
-"productVersion": "0.1",
+"productVersion": "1.0",
 "dataUrl": "HarukaFestival.data.unityweb",
 "wasmCodeUrl": "HarukaFestival.wasm.code.unityweb",
 "wasmFrameworkUrl": "HarukaFestival.wasm.framework.unityweb",
